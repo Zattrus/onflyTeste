@@ -15,8 +15,8 @@ Siga os passos abaixo para configurar o ambiente e inicializar o repositório:
 
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/seu-usuario/onflyTeste.git
+   cd onflyTeste
 
 2. **Instale as dependências**:
    ```bash
